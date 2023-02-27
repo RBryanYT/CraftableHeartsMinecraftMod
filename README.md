@@ -3,7 +3,7 @@ This mod lets you craft extra hearts!
 
 *by RBryanYT*
 
-`Forge 1.19.2 - Version 1.0`
+`Forge 1.19.2 - Version 1.1`
 ## Regular Hearts
 You have to craft heart fragments to craft a regular heart.
 
@@ -30,3 +30,23 @@ Poison Heart Textuers - `RBryanYT`
 Mod Programming - `RBryanYT`
 
 Use the `/ch_help` command in-game to get more information.
+
+# Version 1.1
+
+## Adds advancements for hearts!
+
+**A Heart Item** - Obtain a heart in your inventory.
+
+**20 Hearts** - Have 20 hearts in your healthbar.
+
+**You've been poisoned** - Right-click a poisoned heart to lose a heart.
+
+**Hazardous Heart Count** - Have only 5 hearts.
+
+## Heart Core
+
+Adds a new item called the `Heart Core` that replaces the redstone block in the
+
+middle of the heart crafting recipe. You can craft a heart core by using emeralds,
+
+redstone blocks, and an iron ingot.
