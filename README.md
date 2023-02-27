@@ -23,9 +23,8 @@ This looks like a regular heart, but when you claim it, it acts like a poison he
 It still removes a heart and gives bad effects for 10 seconds.
 
 ## Credits
-Heart/Fragment Textures - `Embers23`
 
-Poison Heart Textuers - `RBryanYT`
+Textures - `RBryanYT`
 
 Mod Programming - `RBryanYT`
 
