@@ -49,3 +49,17 @@ Adds a new item called the `Heart Core` that replaces the redstone block in the
 middle of the heart crafting recipe. You can craft a heart core by using emeralds,
 
 redstone blocks, and an iron ingot.
+
+# Version 1.2
+
+## Adds Language Support
+
+**Only adds language support for the item labels and advancement titles.**
+
+### Languages
+
+**Spanish** - Mexican
+
+**French** - France
+
+**Japanese** - Japan 
