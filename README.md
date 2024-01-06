@@ -3,6 +3,8 @@ This mod lets you craft extra hearts!
 
 *by RBryanYT*
 
+**NOTE** This mod will not be updated on Github anymore. Please find updates on Modrinth [here.](https://modrinth.com/mod/craftable-hearts)
+
 `Forge 1.19.2 - Version 1.1`
 ## Regular Hearts
 You have to craft heart fragments to craft a regular heart.
